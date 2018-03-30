@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Hello Android</string>
+    <string name="udacity">Udacity</string>
+    <string name="mountain_view_ca_94043">Mountain View, CA 94043</string>
+    <string name="_2465_latham_st">2465 Latham St</string>
+    <string name="phone">650-555-5555</string>
+</resources>
